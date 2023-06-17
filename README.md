@@ -1,44 +1,78 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Greed_Creeper 
+<img src= "https://github.com/projeto-de-algoritmos/Greed_Creeper/assets/71983200/032880b2-a78d-469f-b28f-847fe7deab99" width = "20%" height = "20%">
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 4 <br>
+**Conteúdo da Disciplina**: Dividir Para Conquistar <br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 20/0025791  |  Pablo Guilherme de Jesus Batista Silva |
+| 19/0096071  |  Thiago Oliveira Cunha |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+- Neste trabalho buscamos aplicar os conhecimentos aprendidos em sala de aula sobre o tema Dividir Para Conquistar, em problemas de competição dos juizes online beecrowd e LeetCode.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+Execução da [x]() em x.
+
+Execução da [x]() em x <br>
+
+
+
+Execução da [x]() em x <br>
+
+
+
+Execução da [x]() em x <br>
+
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+
+### **Linguagens:** 
+C,C++ e Python
+
+### **Pré-requisistos**
+* Ter instalado no seu computador as Linguagen:
+    * C99 ou Acima
+    * C++ 17 ou Acima
+    * Python 3.8 ou Acima
+
+### **Comandos Necessários**
+* Para compilar as questões em C
+```
+gcc ./NomeCodigo.c 
+```
+* Para compilar as questões em C++
+```
+g++ ./NomeCodigo.cpp 
+```
+* Para executar as questões em C ou C++
+    * Ao compilar, automaticamente será gerada um executavel, basta executá-lo desta forma
+```
+./NomeExecutavel.exe
+```
+* Para executar as questões em python
+```
+python nome_do_codigo.py
+```
+
+* ou
+```
+python3 nome_do_codigo.py
+```
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+* 1° passo: Crie uma conta no beecrowd 
+* 2° passo: Vá na aba de pesquisa de problemas e digite o código da questão
+* 3° passo: Leia o enunciado da questão no site do BeeCrowd, ou nas pastas presentes neste repositório
+* 4° passo: Utilize o codigo feito para a respectiva questão escolhida
+* 5° passo: Coloque a entrada mostrada no enunciado.
+    * Obs: As entradas devem ser seguidas a risca, caso contrário pode ocorrer mal funcionamento do código
+* 6° passo: Compare as saídas obtidas com as saídas do enunciado do problema.
+    
 
 
 

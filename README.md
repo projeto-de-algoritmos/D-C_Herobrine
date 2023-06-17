@@ -1,5 +1,5 @@
-# Greed_Creeper 
-<img src= "https://github.com/projeto-de-algoritmos/Greed_Creeper/assets/71983200/032880b2-a78d-469f-b28f-847fe7deab99" width = "20%" height = "20%">
+# D&C_Herobrine 
+<img src= "https://github.com/projeto-de-algoritmos/D-C_Herobrine/assets/71983200/6763e102-9de9-4985-8baf-2ae36c6f52f5" width = "20%" height = "20%">
 
 **Número da Lista**: 4 <br>
 **Conteúdo da Disciplina**: Dividir Para Conquistar <br>

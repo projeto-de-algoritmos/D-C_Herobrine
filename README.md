@@ -15,29 +15,31 @@
 
 ## Screenshots
 
-Execução da [x]() em x.
-
-Execução da [x]() em x <br>
-
+Execução da [Questão-215 LeetCode](https://github.com/projeto-de-algoritmos/D-C_Herobrine/tree/master/Thiago/Questao_215) em C++.<br>
+![image](https://github.com/projeto-de-algoritmos/D-C_Herobrine/assets/71983200/4835f7d8-12df-4d8c-aa83-294e0e3f39e5)
 
 
-Execução da [x]() em x <br>
+Execução da [Questão-932 LeetCode](https://github.com/projeto-de-algoritmos/D-C_Herobrine/tree/master/Thiago/Questao_932) em C++ <br>
+![image](https://github.com/projeto-de-algoritmos/D-C_Herobrine/assets/71983200/240ed927-8412-4372-bd01-ff937a2d37fd)
 
 
+Execução da [Questão - 1088 BeeCrowd](https://github.com/projeto-de-algoritmos/D-C_Herobrine/tree/master/Pablo) em C <br>
+![image](https://github.com/projeto-de-algoritmos/D-C_Herobrine/assets/71983200/bb34b515-da31-4c50-a489-8fb0930dde8c)
 
-Execução da [x]() em x <br>
+
+Execução da [Questão - 16 LeetCode](https://github.com/projeto-de-algoritmos/D-C_Herobrine/tree/master/Pablo) em C++ <br>
+![image](https://github.com/projeto-de-algoritmos/D-C_Herobrine/assets/71983200/805366a3-5c74-4e5d-8e44-b178d66465b5)
 
 
 ## Instalação 
 
 ### **Linguagens:** 
-C,C++ e Python
+C e C++
 
 ### **Pré-requisistos**
 * Ter instalado no seu computador as Linguagen:
     * C99 ou Acima
     * C++ 17 ou Acima
-    * Python 3.8 ou Acima
 
 ### **Comandos Necessários**
 * Para compilar as questões em C
@@ -52,15 +54,6 @@ g++ ./NomeCodigo.cpp
     * Ao compilar, automaticamente será gerada um executavel, basta executá-lo desta forma
 ```
 ./NomeExecutavel.exe
-```
-* Para executar as questões em python
-```
-python nome_do_codigo.py
-```
-
-* ou
-```
-python3 nome_do_codigo.py
 ```
 
 ## Uso 
